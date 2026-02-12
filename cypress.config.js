@@ -2,8 +2,8 @@ const { defineConfig } = require("cypress");
 const eyesPlugin = require('@applitools/eyes-cypress')
 
 module.exports = defineConfig({
-  viewportHeight: 900, //1200,
-  viewportWidth: 1440, //1920, 
+  viewportHeight: 1329,
+  viewportWidth: 2065,
   e2e: {
     baseUrl: "http://localhost:4200",
     setupNodeEvents(on, config) {
