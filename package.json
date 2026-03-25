@@ -9,7 +9,7 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@applitools/eyes-cypress": "^3.52.0",
+    "@applitools/eyes-cypress": "^3.58.11",
     "cypress": "^15.10.0"
   }
 }
